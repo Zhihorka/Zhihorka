@@ -7,6 +7,8 @@
        nikita.grechka@bk.ru
     TELEGRAM
         https://t.me/Zhihorka
+    PORTFOLIO (RUS)
+        https://zhihorka.github.io/funkyPortfolio/
 
 
 
