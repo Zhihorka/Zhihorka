@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zhihorka
 - 👀 I’m interested in JavaScript and Web-Development
 - 🌱 I’m currently mastering JavaScript
-- 💞️ I’m looking for work
 - 📫 How to reach me :
     MAIL
        nikita.grechka@bk.ru
