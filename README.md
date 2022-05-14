@@ -2,8 +2,7 @@
 - 👀 I’m interested in JavaScript and Web-Development
 - 🌱 I’m currently mastering React and Node.js
 - -----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhihorka&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhihorka)](https://github.com/zhihorka/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhihorka&show_icons=true&theme=cobalt)
 - 📫 How to reach me :
     MAIL
        nikita.grechka@bk.ru
