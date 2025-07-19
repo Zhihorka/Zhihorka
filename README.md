@@ -3,7 +3,7 @@
 - 🌱 I’m currently mastering React and Node.js
 - 📫 How to reach me :
     MAIL
-       nikita.grechka@bk.ru
+       grechkapoflotski@gmail.com
     TELEGRAM
         https://t.me/Zhihorka
 
